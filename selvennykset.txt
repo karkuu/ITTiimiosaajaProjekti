@@ -1,0 +1,14 @@
+A    Käyttäjällä voi olla useita palautteita, mutta yksittäinen palaute liittyy yhteen käyttäjään.
+B    Käyttäjällä voi olla useita ilmoituksia, mutta yksittäinen ilmoitus liittyy yhteen käyttäjään.
+C    Käyttäjällä voi olla useita asuntoja. Asuntoon voi olla liitettynä yksi käyttäjä kerrallaan.
+     Pitäisikö olla, että asunto voi liittyä myös useampaan käyttäjään? (omistaja, vuokralainen)
+D    Käyttäjällä voi olla viestejä. Yksittäinen viesti kuuluu yhdelle käyttäjälle.
+E    Viestiketju liittyy yksittäiseen yhtiöön. Yhtiöön liittyviä viestiketjuja voi olla useita.
+F    Yksittäinen asunto liittyy yhteen yhtiöön. Yhtiössä voi olla useita asuntoja.
+G    Ilmoitus liittyy yksittäiseen asuntoon. Asuntoon voi liittyä useita ilmoituksia.
+H    Ilmoitus voi sisältää useita liitetiedostoja. Yksittäinen tiedosto kuuluu tiettyyn ilmoitukseen.
+I    Palaute liittyy aina yhteen ilmoitukseen kerrallaan ja yksittäinen ilmoitus voi sisältää vain
+yhden palautteen.
+J    Ilmoitukseen voidaan liittää ilmoituksen toimenpiteistä huolehtiva yritys.
+K    Viestiketju sisältää yhden tai useampia viestejä. Viesti kuuluu johonkin viestiketjuun.
+L    Käyttäjän tyyppi: Asiakas, (hallitus), isännöitsijä, yritys, vuokranantaja, yritys (omistaja).
