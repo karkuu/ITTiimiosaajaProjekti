@@ -1,4 +1,4 @@
-﻿Selitykset:
+Selitykset:
 Suluissa olevat mahdollisesti toteutettavia ominaisuuksia.
 
 
@@ -21,3 +21,6 @@ N    Yksittäinen kenttä kuuluu johonkin ilmoitustyyppiin. Ilmoitustyyppiin voi
      kenttiä.
 O    Jos tyyppi esimerkiksi dropbox, niin options esim. “Kyllä,Ei,Ehkä”. Jos esim textfield, niin
      voidaan asettaa jokin teksti valmiiksi kenttään.
+P    Kopio ilmoituksista sähköpostiin? Ilmoitusten tilan muutoksista ilmoitus sähköpostiin?
+     Väriteeman muutos (käytettävyystoiminto. esim suurempi kontrasti). Muita asetuksia?
+
